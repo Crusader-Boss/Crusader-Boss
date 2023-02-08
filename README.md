@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arya_kshitij69" target="blank"><img src="https://img.shields.io/twitter/follow/arya_kshitij69?logo=twitter&style=for-the-badge" alt="arya_kshitij69" /></a> </p>
 
-- 🔭 I’m currently working on [My website & Blog](kshitij-arya.netlify.app)
+- 🔭 I’m currently working on [My website & Blog](https://kshitij-arya.netlify.app/)
 
 - 🌱 I’m currently learning **Css, JS And Bash**
 
