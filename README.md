@@ -15,13 +15,15 @@
 
 - 🤝 I’m looking for help with **Starting Freelancing**
 
-- 👨‍💻 All of my projects are available at [kshitij-arya.netlify.app/projects.html](kshitij-arya.netlify.app/projects.html)
+- 👨‍💻 All of my projects are available at [https://kshitij-arya.netlify.app/projects.html/](https://kshitij-arya.netlify.app/projects.html/)
 
 - 📝 I regularly write articles on [blog here](blog here)
 
 - 💬 Ask me about **Python, HTML, CSS, JS**
 
 - 📫 How to reach me **crusadergaming169@gmail.com**
+
+- ⚡ Fun fact **I am a Nerd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
