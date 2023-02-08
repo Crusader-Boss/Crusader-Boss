@@ -36,4 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Crusader-Boss" alt="crusader-boss" /></p>
 
-[![Crusader-Boss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crusader-Boss)](https://github.com/Crusader-Boss/github-readme-stats)
+[![Crusader-Boss's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crusader-Boss)
+
+(https://github.com/Crusader-Boss/github-readme-stats)
