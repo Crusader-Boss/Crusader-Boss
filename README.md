@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Starting Freelancing**
 
-- 👨‍💻 All of my projects are available at [https://kshitij-arya.netlify.app/projects.html/](https://kshitij-arya.netlify.app/projects.html/)
+- 👨‍💻 All of my projects are available at [https://kshitij-arya.netlify.app/projects.html/](https://kshitijarya.netlify.app/projects.html/)
 
 - 📝 I regularly write articles on [blog here](blog here)
 
